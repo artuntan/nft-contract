@@ -1,0 +1,28 @@
+
+{
+    "name": "The X Bank Crest",
+    "symbol": "TXBCREST",
+    "description": "Redefining banking with an e-wallet for effortless daily expenses and a staking product offering competitive APYs on stablecoins (up to 45% via XYield protocol). Our innovative licensing ensures seamless crypto-to-fiat conversions, disguising transactions as standard banking transfers for traditional banks. Enjoy discounted banking services for corporates and individuals, better APY rates on XYield, staking rewards, and off-ramping in 50+ currencies.",
+    "seller_fee_basis_points": 500,
+    "image": "ipfs://QmYZcX9GGd6xya8jNGaXeJuF39gfFQDwYgXb8x1PYjvcSF/nft_thexbank.png",
+    "attributes": [],
+    "collection": {
+        "name": "Crest",
+        "family": "The X Bank Crest"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://QmYZcX9GGd6xya8jNGaXeJuF39gfFQDwYgXb8x1PYjvcSF/nft_thexbank.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "3mswPMqoQisQxq6cRAo7eSBjQSKtaHbH68U82qw94pDX",
+                "share": 100
+            }
+        ]
+    }
+}
